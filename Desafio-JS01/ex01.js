@@ -2,10 +2,10 @@
  o número que você enviou. */
 
 
-const numb = (number) => {
-    for (i = 1; i < number; i++) {
-        console.log('contando...', i)
-    }
-}
+// const numb = (number) => {
+//     for (i = 1; i < number; i++) {
+//         console.log('contando...', i)
+//     }
+// }
 
-numb(30)
+// numb(30)

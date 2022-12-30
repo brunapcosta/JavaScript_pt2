@@ -1,14 +1,14 @@
 /* For Each */
 
-const students = [
-    {name: 'André', age: 63},
-    {name: 'Bruna', age: 27},
-    {name: 'Bruno', age: 32},
-    {name: 'Carolinne', age: 26},
-    {name: 'Fernando', age: 52},
-    {name: 'Raquel', age: 31},
-    {name: 'Singlair', age: 64}
-]
+// const students = [
+//     {name: 'André', age: 63},
+//     {name: 'Bruna', age: 27},
+//     {name: 'Bruno', age: 32},
+//     {name: 'Carolinne', age: 26},
+//     {name: 'Fernando', age: 52},
+//     {name: 'Raquel', age: 31},
+//     {name: 'Singlair', age: 64}
+// ]
 
 // students.forEach( (student) => {
     // console.log(student) // passa item por item

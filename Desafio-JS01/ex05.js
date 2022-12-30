@@ -9,13 +9,13 @@
 //     } 
 // }
 
-const comper = (number1, number2) => {
-    if(number1 > number2) {
-        console.log(`o primeiro é maior`)
-    }
-    else {
-        console.log(`o segundo é maior`)
-    } 
-}
+// const comper = (number1, number2) => {
+//     if(number1 > number2) {
+//         console.log(`o primeiro é maior`)
+//     }
+//     else {
+//         console.log(`o segundo é maior`)
+//     } 
+// }
 
-comper(3, 6)
+// comper(3, 6)
